@@ -1,0 +1,9 @@
+apt-get install python-pip 
+apt-get install python-dev 
+apt-get install build-dep 
+apt-get install python-lxml
+apt-get install python-eventlet 
+apt-get install python-routes 
+apt-get install python-webob 
+apt-get install python-paramiko
+python ./setup.py install
